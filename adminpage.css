@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.buttons button{
+    margin-top: 20px;
+    margin-right: 10px;
+    border: 1px solid rgb(214, 207, 207);
+    color:rgb(214, 207, 207) ;
+}
+.logo img{
+
+}
